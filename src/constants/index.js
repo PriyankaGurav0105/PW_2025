@@ -58,7 +58,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
   {
     title: "Blogging Platform",
@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
+  address: "Bandra West Mumbai-50 ",
   phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  email: "priyankagurav1599@gmail.com",
 };
