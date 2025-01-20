@@ -72,7 +72,7 @@ const Certificates = () => {
       {/* Popup Modal */}
       {isOpen && (
         <div className="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50">
-          <div className="relative bg-white rounded-lg shadow-lg">
+          <div className="relative bg-white rounded-lg shadow-lg max-w-3xl mx-auto">
             <button
               onClick={closePopup}
               className="absolute top-2 right-2 text-gray-600 hover:text-gray-800 text-lg"
@@ -82,7 +82,7 @@ const Certificates = () => {
             <img
               src={popupImage}
               alt="Certificate"
-              className="w-full h-auto rounded-lg"
+               className="w-full h-auto rounded-lg max-w-full max-h-screen object-contain"
             />
           </div>
         </div>
