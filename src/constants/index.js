@@ -44,16 +44,16 @@ export const PROJECTS = [
     image: project1,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-    githubLink: '',
-    liveLink: '',
+    technologies: ["React","Tailwind", "Node.js", "MongoDB"],
+    githubLink: 'https://github.com/PriyankaGurav0105/mern_e-commerce_website',
+    liveLink: 'https://mern-e-commerce-website-frontend.onrender.com',
   },
   {
     title: "AI Powered Text to Image App",
     image: project2,
     description:
       "An application to generate images from prompt using credits. You can buy more credits with RazorPay Payment Gateway.",
-    technologies: ["React", "Tailwind", "ClipDrop AI API", "Node.js","MongoDB","RazorPay"],
+    technologies: ["React", "Tailwind", "ClipDrop AI API", "Node.js","Express","MongoDB","RazorPay"],
     githubLink: 'https://github.com/PriyankaGurav0105/AI_text_to_image_website',
     liveLink: '',
   },
@@ -72,9 +72,19 @@ export const PROJECTS = [
     description:
       "A platform forcrypto currency details using and opensource Api.",
     technologies: ["React", "CSS"],
-    githubLink: 'https://github.com/yourusername/project1',
-    liveLink: 'https://yourwebsite.com/project1',
+    githubLink: 'https://github.com/PriyankaGurav0105/cryptoplace_2025',
+    liveLink: 'https://cryptoplace-2025.onrender.com',
   },
+  {
+    title: "Food Recipe App",
+    image: project4,
+    description:
+      "A platform forcrypto currency details using and opensource Api.",
+    technologies: ["React", "Tailwind", "API"],
+    githubLink: 'https://github.com/PriyankaGurav0105/food_recipe_website/tree/main/fr_website',
+    liveLink: '',
+  },
+  
 ];
 
 export const CONTACT = {
