@@ -24,7 +24,7 @@ const Projects = () => {
             whileInView={{ opacity: 1, y: 0 }}
             initial={{ opacity: 0, y: 100 }}
             transition={{ duration: 1 }}
-            className="flex flex-col lg:flex-row bg-slate-900 shadow-lg rounded-lg overflow-hidden"
+            className="flex flex-col lg:flex-row bg-neutral-900 shadow-lg rounded-lg overflow-hidden"
           >
             {/* Project Image */}
             <div className="lg:w-1/2">
@@ -43,7 +43,7 @@ const Projects = () => {
                 {project.technologies.map((tech, index) => (
                   <span
                     key={index}
-                    className="rounded bg-stone-900 px-2 py-1 text-sm font-medium text-stone-300"
+                    className="rounded bg-stone-700 px-2 py-1 text-sm font-medium text-stone-300"
                   >
                     {tech}
                   </span>

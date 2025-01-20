@@ -1,3 +1,4 @@
+import Certificates from "./components/Certificates"
 import Contacts from "./components/Contacts"
 // import Experience from "./components/Experience"
 import Hero from "./components/Hero"
@@ -20,6 +21,7 @@ const App = () => {
           <Technologies/>
           <Projects/>
           {/* <Experience/> */}
+          <Certificates/>
           <Contacts/>
           
 

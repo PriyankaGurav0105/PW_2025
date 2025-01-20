@@ -1,5 +1,5 @@
 import { RiBootstrapLine, RiCss3Line, RiHtml5Line, RiJavascriptLine, RiNodejsLine, RiReactjsLine, RiTailwindCssLine } from "react-icons/ri"
-import { SiExpress, SiMongodb } from "react-icons/si"
+import { SiExpress, SiFramer, SiMongodb } from "react-icons/si"
 import {motion} from "framer-motion"
 
 const iconVariants =(duration)=>({
@@ -91,6 +91,13 @@ const Technologies = () => {
             variants={iconVariants(1.5)}
             className="p-4">
                 <SiMongodb className="text-7xl text-green-700"/>
+            </motion.div>
+            <motion.div 
+            initial= 'initial'
+            animate='animate'
+            variants={iconVariants(1.5)}
+            className="p-4">
+                <SiFramer className="text-7xl text-blue-700 "/>
             </motion.div>
 
         </motion.div>
