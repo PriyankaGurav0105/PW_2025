@@ -45,6 +45,8 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+    githubLink: '',
+    liveLink: '',
   },
   {
     title: "AI Powered Text to Image App",
@@ -52,6 +54,8 @@ export const PROJECTS = [
     description:
       "An application to generate images from prompt using credits. You can buy more credits with RazorPay Payment Gateway.",
     technologies: ["React", "Tailwind", "ClipDrop AI API", "Node.js","MongoDB","RazorPay"],
+    githubLink: 'https://github.com/PriyankaGurav0105/AI_text_to_image_website',
+    liveLink: '',
   },
   {
     title: "Portfolio Website",
@@ -59,6 +63,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
+    githubLink: 'https://github.com/PriyankaGurav0105/PW_2025',
+    liveLink: 'https://yourwebsite.com/project1',
   },
   {
     title: "Crypto Currency Platform",
@@ -66,6 +72,8 @@ export const PROJECTS = [
     description:
       "A platform forcrypto currency details using and opensource Api.",
     technologies: ["React", "CSS"],
+    githubLink: 'https://github.com/yourusername/project1',
+    liveLink: 'https://yourwebsite.com/project1',
   },
 ];
 
