@@ -6,6 +6,7 @@ import project4 from "../assets/projects/project-4.webp";
 import certdbms from "../assets/certificate/Cert-DBMS.png"
 import certjava from "../assets/certificate/Cert-Java.png"
 import certbd from "../assets/certificate/Cert-BD.png"
+import certwd from "../assets/certificate/Cert-WD.png"
 
 export const HERO_CONTENT = `Hi, I'm a passionate web developer excited to dive into the world of coding. I recently started my journey in web development, focusing on building responsive, user-friendly websites with modern technologies. I am proficient in HTML, CSS, JavaScript,React,Express, Node.js amd MongoDB and I am continuously learning new skills to stay up-to-date with industry trends. My goal is to create seamless, interactive user experiences and contribute to innovative projects. I enjoy tackling challenges and solving problems through clean, efficient code. Explore my portfolio to see the projects I’ve worked on!`;
 
@@ -104,7 +105,7 @@ export const CERTIFICATES = [
     title: "Certification in Full Stack Web Development",
     description: "Certification in Full Stack Web Development from Udemy.",
     date: "2025",
-    image:"",
+    image:certwd,
   },
   {
     title: "Certification in Big Data Computing",
