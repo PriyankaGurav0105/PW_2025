@@ -64,7 +64,7 @@ export const PROJECTS = [
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
     githubLink: 'https://github.com/PriyankaGurav0105/PW_2025',
-    liveLink: 'https://yourwebsite.com/project1',
+    liveLink: 'https://portfolio-website-caap.onrender.com',
   },
   {
     title: "Crypto Currency Platform",
