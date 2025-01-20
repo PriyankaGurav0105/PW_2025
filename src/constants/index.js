@@ -1,5 +1,5 @@
 import project1 from "../assets/projects/project-1.webp";
-import project2 from "../assets/projects/project-2.webp";
+import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-4.webp";
 
@@ -47,11 +47,11 @@ export const PROJECTS = [
     technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
   },
   {
-    title: "Task Management App",
+    title: "AI Powered Text to Image App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "An application to generate images from prompt using credits. You can buy more credits with RazorPay Payment Gateway.",
+    technologies: ["React", "Tailwind", "ClipDrop AI API", "Node.js","MongoDB","RazorPay"],
   },
   {
     title: "Portfolio Website",
