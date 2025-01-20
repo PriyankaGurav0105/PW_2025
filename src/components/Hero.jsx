@@ -57,7 +57,7 @@ const Hero = () => {
                 variants={childVariants}
                 href='/PriyankaGurav_resume.pdf'
                 target='_blank'
-                rel='noopener noreferrer'
+                // rel='noopener noreferrer'
                 className='bg-white rounded-full p-4 text-sm text-stone-800 mb-10'>View Resume</motion.a>
             </motion.div>
             </div>
