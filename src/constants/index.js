@@ -91,6 +91,16 @@ export const PROJECTS = [
     githubLink: 'https://github.com/PriyankaGurav0105/food_recipe_website/tree/main/fr_website',
     liveLink: '',
   },
+  {
+    title: "Job Portal App",
+    image: project5,
+    description:
+      "A app to find jobs and recruites can add job, manage jobs too.",
+    technologies: ["React", "Tailwind", "Express","Nodejs", "Mongodb"],
+    githubLink: 'https://github.com/PriyankaGurav0105/food_recipe_website/tree/main/fr_website',
+    liveLink: 'https://job-portal-client-kohl.vercel.app/',
+    
+  }
   
 ];
 
