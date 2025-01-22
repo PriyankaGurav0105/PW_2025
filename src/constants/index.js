@@ -2,6 +2,7 @@ import project1 from "../assets/projects/project-1.webp";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-4.webp";
+import project5 from "../assets/projects/project-5.jpg";
 // import cert1 from "../assets/certificate/cert-1.png"
 import certdbms from "../assets/certificate/Cert-DBMS.png"
 import certjava from "../assets/certificate/Cert-Java.png"
@@ -97,7 +98,7 @@ export const PROJECTS = [
     description:
       "A app to find jobs and recruites can add job, manage jobs too.",
     technologies: ["React", "Tailwind", "Express","Nodejs", "Mongodb"],
-    githubLink: 'https://github.com/PriyankaGurav0105/food_recipe_website/tree/main/fr_website',
+    githubLink: 'https://github.com/PriyankaGurav0105/codsoft/Job-Portal',
     liveLink: 'https://job-portal-client-kohl.vercel.app/',
     
   }
