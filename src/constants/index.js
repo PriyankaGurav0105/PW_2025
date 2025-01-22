@@ -98,7 +98,7 @@ export const PROJECTS = [
     description:
       "A app to find jobs and recruites can add job, manage jobs too.",
     technologies: ["React", "Tailwind", "Express","Nodejs", "Mongodb"],
-    githubLink: 'https://github.com/PriyankaGurav0105/codsoft/JOB-PORTAL',
+    githubLink: 'https://github.com/PriyankaGurav0105/codsoft/tree/main/JOB-PORTAL',
     liveLink: 'https://job-portal-client-kohl.vercel.app/',
     
   }
