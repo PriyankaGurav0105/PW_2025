@@ -55,7 +55,7 @@ const Hero = () => {
                 className='my-2 max-w-lg py-6 text-xl leading-relaxed tracking-tighter'>{HERO_CONTENT}</motion.p>
                 <motion.a 
                 variants={childVariants}
-                href='/PriyankaGurav_resume.pdf'
+                href='/PriyankaGurav_CV.pdf'
                 target='_blank'
                 // rel='noopener noreferrer'
                 className='bg-white rounded-full p-4 text-sm text-stone-800 mb-10'>View Resume</motion.a>
